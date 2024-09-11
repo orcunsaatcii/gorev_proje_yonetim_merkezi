@@ -1,16 +1,15 @@
-# gorev_proje_yonetim_uygulamasi
+# Görev ve Proje Yönetim Uygulaması
 
-A new Flutter project.
+Kullanılan Teknolojiler ve Paketler
+**************************************************
+* Firebase Auth
+* Firebase Firestore
+* Firebase Storage
+* State Management (Riverpod)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/2a3c561c-8e36-4026-9e10-71f0db95f2d7
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
